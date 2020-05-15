@@ -1,1 +1,1 @@
-print("new to git")
+print("new to gi")

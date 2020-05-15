@@ -1,2 +1,2 @@
 print("lmao")
-print("lmaoo")
+print("lmoo")
